@@ -10,4 +10,3 @@ Select your game from the list.
 
 Let the script hunt for a better route.
 
-When it shows SUCCESS, keep the window open and start playing.
